@@ -1,0 +1,1 @@
+docker-dotnet-sdk-sonar
